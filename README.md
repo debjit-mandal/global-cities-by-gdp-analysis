@@ -57,7 +57,7 @@ pip install pandas matplotlib jupyter
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/global-cities-by-gdp-analysis.git
+   git clone https://github.com/debjit-mandal/global-cities-by-gdp-analysis.git
    cd global-cities-by-gdp-analysis
    ```
 
